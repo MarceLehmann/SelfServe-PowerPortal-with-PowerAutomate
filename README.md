@@ -1,13 +1,15 @@
-SelfServe PowerPortal with PowerAutomate
-Welcome to the SelfServe PowerPortal with PowerAutomate repository! This solution is designed to simplify self-service operations using PowerAutomate.
+# SelfServe PowerPortal with PowerAutomate
 
-Quick Setup
-Import the Solution: Begin by importing the SelfServe PowerPortal with PowerAutomate solution into your environment.
+Welcome to the **SelfServe PowerPortal with PowerAutomate** repository! This solution simplifies self-service operations using PowerAutomate.
 
-Configure Workflow 1 (wf1): Within the settings of wf1, you will find a placeholder for an HTTP request URL. This is where you need to specify the URL of wf2. By linking the two workflows, you're essentially setting the foundation for the SelfServe PowerPortal to function correctly.
+## 🚀 Getting Started
 
-Important Note
-Make sure that wf2 is set up and running before you update its HTTP request URL in wf1. This ensures that the two workflows can communicate seamlessly.
+### Step 1: Import the Solution
+Before you begin, ensure you've imported the `SelfServe PowerPortal with PowerAutomate` solution into your environment.
 
-Getting Help
-Should you encounter any issues or have any questions about setting up, feel free to raise an issue here, and the community (or I) will do our best to assist you.
+```shell
+# Navigate to your solutions directory (as an example)
+cd path_to_your_solutions_directory
+
+# Import the SelfServe PowerPortal with PowerAutomate solution
+# Use your command or process to import the solution
