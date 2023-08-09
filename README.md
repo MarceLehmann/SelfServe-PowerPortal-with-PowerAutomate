@@ -13,3 +13,9 @@ cd path_to_your_solutions_directory
 
 # Import the SelfServe PowerPortal with PowerAutomate solution
 # Use your command or process to import the solution
+
+# Navigate to wf1 settings
+cd path_to_wf1_settings
+
+# Update HTTP request URL with the URL of wf2
+# Use your command or process to update the URL
